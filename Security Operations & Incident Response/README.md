@@ -6,7 +6,7 @@ A collection of hands-on security investigation write-ups. Each project works th
 
 | # | Project | Tools | Summary |
 |---|---------|-------|---------|
-| 1 | [Splunk – Frothly Incident Investigation](./"Project 1 - Splunk/Project 1 - Splunk.md) | Splunk, SPL, VirusTotal, Broadcom/Symantec | Investigates an AWS console compromise, a publicly exposed S3 bucket, a cryptomining malware infection, and a leaked AWS access key using the BOTS v3 (Boss of the SOC) dataset. |
+| 1 | [Splunk – Frothly Incident Investigation](./Project%201%20-%20Splunk/Project%201%20-%20Splunk.md) | Splunk, SPL, VirusTotal, Broadcom/Symantec | Investigates an AWS console compromise, a publicly exposed S3 bucket, a cryptomining malware infection, and a leaked AWS access key using the BOTS v3 (Boss of the SOC) dataset. |
 
 *More projects will be added here as they're completed.*
 
