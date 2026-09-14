@@ -6,8 +6,8 @@ A collection of hands-on security investigation write-ups. Each project works th
 
 | # | Project | Tools | Summary |
 |---|---------|-------|---------|
-| 1 | [Splunk – Frothly Incident Investigation](./Security Operations & Incident Response/Project 1 - Splunk/Project 1 - Splunk.md) | Splunk, SPL, VirusTotal, Broadcom/Symantec | Investigates an AWS console compromise, a publicly exposed S3 bucket, a cryptomining malware infection, and a leaked AWS access key using the BOTS v3 (Boss of the SOC) dataset. |
-| 2 | [Man In The Middle](./Information Security/Project 2 - MITM/Project 2 - Man-In-The-Middle.md) | Wireshark, GPG, dig/curl/wget, John the Ripper | Reconstructs an IRC threat actor's chat log from a packet capture, decrypts a PGP-protected file transfer, fingerprints the domain behind it, pulls FTP credentials and a payload off a compromised server, and cracks a password-protected zip to reach the final flag. |
+| 1 | [Splunk – Frothly Incident Investigation](./Security%20Operations%20%26%20Incident%20Response/Project%201%20-%20Splunk/Project%201%20-%20Splunk.md) | Splunk, SPL, VirusTotal, Broadcom/Symantec | Investigates an AWS console compromise, a publicly exposed S3 bucket, a cryptomining malware infection, and a leaked AWS access key using the BOTS v3 (Boss of the SOC) dataset. |
+| 2 | [Man In The Middle](./Information%20Security/Project%202%20-%20MITM/Project%202%20-%20Man-In-The-Middle.md) | Wireshark, GPG, dig/curl/wget, John the Ripper | Reconstructs an IRC threat actor's chat log from a packet capture, decrypts a PGP-protected file transfer, fingerprints the domain behind it, pulls FTP credentials and a payload off a compromised server, and cracks a password-protected zip to reach the final flag. |
 
 *More projects will be added here as they're completed.*
 
